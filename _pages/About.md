@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD student at <a href='https://www.southampton.ac.uk/'>University of Southampton</a>
+subtitle: PhD student at University of Southampton
 
 profile:
   align: right
@@ -34,7 +34,7 @@ Hi!
 
 I am a third year PhD student in Probabilistic Scientific Computations group at the School of Mathematical Sciences, <a href='https://www.southampton.ac.uk/'>University of Southampton</a>, supervised by <a href='https://joncockayne.me/'>Dr Jon Cockayne</a>. 
 
-My research primarily focuses on probabilistic numerics and I am more broadly interested in statistical machine learning. More specifically, I work with probabilistic linear solvers - applying them in different contexts (such as solving series of related systems and Gaussian process regression) and building calibrated probabilistic linear solvers. 
+My research primarily focuses on probabilistic numerics and I am more broadly interested in statistical machine learning. More specifically, I work with probabilistic linear solvers - applying them in different contexts (such as solving a series of related systems and in Gaussian process regression) and building calibrated probabilistic linear solvers. 
 
 <!-- In our work on using probabilistic linear solvers for solving a series of related systems, we use a transfer learning approach across parameterised linear systems to provide an efficient preconditioner and initial guess for classical solvers, thus improving the speed of their convergence. In our other work, we use a calibrated probabilistic linear solver to build a calibrated version of a fast Gaussian process regression(CAGP). -->
 
