@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/books/the_godfather/</loc>
-<lastmod>2025-04-30T09:32:35+01:00</lastmod>
+<lastmod>2025-10-03T15:14:03+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/news/announcement_1/</loc>
@@ -261,5 +261,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/books/category/thriller/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/googled1e76e88205003ee.html</loc>
+<lastmod>2025-10-03T14:46:45+01:00</lastmod>
 </url>
 </urlset>
